@@ -1,5 +1,7 @@
 package produtos;
-
+import  java.util.ArrayList;
+import java.util.List;
+// importações
 public class Estoque {
     private List<Produto> produtos = new ArrayList<>();
 // lista para adicionar os produtos

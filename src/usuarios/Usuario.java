@@ -1,4 +1,6 @@
 package usuarios;
 
-public class Usuario {
+public interface Usuario {
+    public void criarConta();
+    public void Login();
 }
